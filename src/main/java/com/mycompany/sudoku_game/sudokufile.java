@@ -2017,10 +2017,7 @@ public class sudokufile extends javax.swing.JFrame {
             ResetGame();
             System.exit(0);
     }//GEN-LAST:event_exitbtnActionPerformed
- //private void checkbtnActionPerformeds(java.awt.event.ActionEvent nam) {                                         
-        // TODO add your handling code here:
-   //     Checkmoves();
-    //} 
+    }
     private void solutionbtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_solutionbtnActionPerformed
         // TODO add your handling code here:
         SeeSolution();
